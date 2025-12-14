@@ -26,3 +26,8 @@ Machine learning models learn patterns from email data and adapt to new spam tec
 
 ## Conclusion
 Machine learning provides an efficient and adaptive solution for email spam detection and continues to improve with evolving data and techniques.
+
+## Contributors
+- Shemil Devani  
+- Zeel Aghera  
+- Jay Mangukiya
